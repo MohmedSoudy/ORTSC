@@ -1,0 +1,21 @@
+"","Object","Class","Weight"
+"1","human",NA,0
+"2","person ",NA,0
+"3","animal",NA,0
+"4","cat",NA,0
+"5","dog",NA,0
+"6","house","Outdoor",0.7
+"7","sea","Outdoor",1
+"8","window","Indoor",0.5
+"9","window","Outdoor",0.6
+"10","sky","Outdoor",1
+"11","building","Outdoor",0.7
+"12","cloud","Outdoor",0.8
+"13","mountain","Outdoor",1
+"14","forest","Outdoor",0.8
+"15","beash","Outdoor",0.8
+"16","room","Indoor",1
+"17","bathroom","Indoor",0.9
+"18","chair","Indoor",0.6
+"19","furniture","Indoor",0.6
+"20","bed","Indoor",0.7
